@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Button Click App</string>
+    <string name="name">Name</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="this_is_a_button_click_application">This is a button click application</string>
+</resources>
